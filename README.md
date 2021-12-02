@@ -1,4 +1,4 @@
-## I'm Lucas Braga!
+## Hello there, I'm Lucas Braga!
 - Hi, I’m Lucas Braga, mostly known as Braga, Computer Science student in Universidade Federal de Viçosa - UFV. 20 years old, Brazilian and fanatic in FPS games.
 -  I’m interested in all technology forms since the first "Hello World" appeared on screen. I have good eyes for Internet of Things, Machine Learning, Mobile Programming and Data Science...
 - I’m currently learning Java Script, .NET and C#. I have a strong knowledge in complex C++ codes and Structures. I do have plans on studying mobile languages such Swift and Flutter.
