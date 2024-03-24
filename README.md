@@ -4,7 +4,7 @@
 
 ![](https://komarev.com/ghpvc/?username=bragalucas1&color=green)
 ## How to reach me:
-[![Github Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-braga-00677b209/)](https://www.linkedin.com/in/lucas-braga-00677b209/) 
+[![Github Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-braga-00677b209/)](https://www.linkedin.com/in/lucasbragam/) 
 
 <!---
 bragalucas1/bragalucas1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
